@@ -4,12 +4,12 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Reyansh4/OpenCVProject.git
    ```
 
 2. **Install Virtual Environment and Dependencies**:
    ```bash
-   cd your-repo-name
+   cd OpenCVProject
    python -m venv venv
    # Activate venv (Windows/Linux/MacOS)
    # Windows: venv\Scripts\activate
